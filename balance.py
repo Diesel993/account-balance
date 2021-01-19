@@ -7,6 +7,7 @@ import re
 import xlsxwriter #Download at http://xlsxwriter.readthedocs.io/getting_started.html
 
 ##Path direction
+# test
 year = '2017'
 months = ['Maanden', 'Januari', 'Februari', 'Maart', 'April', 'Mei', 'Juni', 'Juli', 'Augustus', 'September', 'Oktober', 'November', 'December']
 # dr = r'I:\Uitgaven\Gezamenlijke rekening\201710_Rabo.txt'
